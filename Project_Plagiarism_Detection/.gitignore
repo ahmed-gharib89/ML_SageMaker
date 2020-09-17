@@ -2,3 +2,5 @@
 __MACOSX
 data.zip
 data
+__pycache__
+plagiarism_data
